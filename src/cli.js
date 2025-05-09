@@ -1,4 +1,4 @@
-import readlineSync from 'readline-sync'
+import readlineSync from 'readline-sync';
 
 export const user = () => {
   console.log('Welcome to the Brain Games!');
