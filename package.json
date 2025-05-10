@@ -1,11 +1,18 @@
 {
-  "name": "@hexlet/code",
-  "version": "1.0.0",
+  "name": "hexlet-code-gusev",
+  "version": "1.0.1",
   "description": "[![Actions Status](https://github.com/Rus1an225/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Rus1an225/frontend-project-44/actions)",
   "type": "module",
+	"publishConfig": {
+		"access": "public"
+	},
+  "bin": {
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
+  },
   "scripts": {
-    "start": "node bin/brain-games.js",
-    "publish": "npm publish --dry-run",
+    "brain-games": "node bin/brain-games.js",
+    "brain-even": "node bin/brain-even.js",
     "lint": "eslint ."
   },
   "author": "",
