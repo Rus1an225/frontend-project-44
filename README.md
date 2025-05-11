@@ -14,3 +14,6 @@ https://asciinema.org/a/lTbGu71PAk7WP5XtKRAIuKmm4
 
 # Пример запуска проекта и игры brain-gcd
 https://asciinema.org/a/c3EcWLaOux5PdwNVqvv3CYh6M
+
+# Пример запуска проекта и игры brain-progression
+https://asciinema.org/a/Lfn9hfnZWL1PW3ovE5824smhW
