@@ -8,3 +8,6 @@
 
 # Пример запуска проекта и игры brain-even
 https://asciinema.org/a/ThClUh3dgUy8Tac8iSPmeXurw
+
+# Пример запуска проекта и игры brain-games
+https://asciinema.org/a/lTbGu71PAk7WP5XtKRAIuKmm4
