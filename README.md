@@ -17,3 +17,6 @@ https://asciinema.org/a/c3EcWLaOux5PdwNVqvv3CYh6M
 
 # Пример запуска проекта и игры brain-progression
 https://asciinema.org/a/Lfn9hfnZWL1PW3ovE5824smhW
+
+# Пример запуска проекта и игры brain-prime
+https://asciinema.org/a/oISTEFU1CIdIPXniQcq6otR8O
