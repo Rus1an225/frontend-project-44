@@ -1,4 +1,3 @@
-// src/games/calc.js
 import runGame from '../engine.js';
 import { getRandomInt } from '../utils/random.js';
 

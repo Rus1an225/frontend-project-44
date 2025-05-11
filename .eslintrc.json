@@ -13,6 +13,10 @@
 		"operator-linebreak": "off",
 		"no-plusplus": "off",
 		"no-shadow": "off",
-		"import/prefer-default-export": "off"
+		"import/prefer-default-export": "off",
+		"operator-assignment": "off",
+		"no-param-reassign": "off",
+		"no-restricted-syntax": "off",
+		"max-len": "off"
   }
 }

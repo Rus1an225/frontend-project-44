@@ -1,4 +1,3 @@
-// src/games/even.js
 import runGame from '../engine.js';
 import { getRandomInt } from '../utils/random.js';
 

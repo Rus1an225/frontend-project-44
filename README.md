@@ -9,5 +9,8 @@
 # Пример запуска проекта и игры brain-even
 https://asciinema.org/a/ThClUh3dgUy8Tac8iSPmeXurw
 
-# Пример запуска проекта и игры brain-games
+# Пример запуска проекта и игры brain-calc
 https://asciinema.org/a/lTbGu71PAk7WP5XtKRAIuKmm4
+
+# Пример запуска проекта и игры brain-gcd
+https://asciinema.org/a/c3EcWLaOux5PdwNVqvv3CYh6M

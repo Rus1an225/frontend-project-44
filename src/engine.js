@@ -1,4 +1,3 @@
-// src/engine.js
 import readlineSync from 'readline-sync';
 import { welcome, helloName } from './cli.js';
 
