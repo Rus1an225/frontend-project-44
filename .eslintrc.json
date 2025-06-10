@@ -1,15 +1,19 @@
 {
-  "extends": "airbnb-base",
+  "extends": [
+		"airbnb-base"
+	],
   "env": {
     "browser": true,
     "node": true,
     "es2021": true
   },
+	"plugins": [
+		"@stylistic"
+	],
   "rules": {
+		"semi": ["error", "never"],
     "no-console": "off",
     "import/extensions": "off",
-		"no-tabs": "off",
-		"indent": "off",
 		"operator-linebreak": "off",
 		"no-plusplus": "off",
 		"no-shadow": "off",
