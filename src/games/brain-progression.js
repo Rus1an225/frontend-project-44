@@ -27,7 +27,7 @@ function createArrNumsArithmeticProgression() {
 
 const generateRound = () => {
 	const arrNumsArithmeticProgression = createArrNumsArithmeticProgression();
-	const posHiddenNumber = getRandomInt(0, arrNumsArithmeticProgression.length); // позиция числа в массиве(его индекс), которое будет скрываться
+	const posHiddenNumber = getRandomInt(0, arrNumsArithmeticProgression.length - 1);
 
 	const question = createStrWithHiddenNumber(arrNumsArithmeticProgression, posHiddenNumber);
 	const correctAnswer = String(arrNumsArithmeticProgression[posHiddenNumber]);
